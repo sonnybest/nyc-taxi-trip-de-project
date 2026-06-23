@@ -1,4 +1,4 @@
-# Azure END-TO-END Data Engineering Project
+# Azure End-to-End Data Engineering Project
 
 ## Overview
 
