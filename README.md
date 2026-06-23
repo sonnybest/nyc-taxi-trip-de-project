@@ -2,13 +2,15 @@
 
 ## Overview
 
-This project demonstrates the design and implementation of a modern Azure Lakehouse architecture using the Medallion Architecture (Bronze, Silver, and Gold layers). The solution ingests raw operational data, applies scalable transformations using Databricks and Apache Spark, and delivers curated datasets for business intelligence and analytics through Power BI.
+This project demonstrates the design and implementation of a modern Azure Lakehouse architecture using the Medallion Architecture (Bronze, Silver, and Gold layers). The solution ingests raw NYC Taxi trip data for the year 2025, applies scalable transformations using Databricks and Apache Spark, and delivers curated datasets for business intelligence and downstream analytics through Power BI.
 
 The architecture is designed to support enterprise-grade data engineering requirements including scalability, data quality, governance, security, and analytical performance.
 
 ---
 
 ## Architecture
+<img width="1635" height="962" alt="image" src="https://github.com/user-attachments/assets/e388afea-d1f6-4886-95ce-067c08bee3dc" />
+
 
 ### Data Flow
 
