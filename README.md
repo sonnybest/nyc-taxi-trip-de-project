@@ -26,6 +26,9 @@ The architecture is designed to support enterprise-grade data engineering requir
 
 Source Systems → Azure Data Factory → Bronze Layer → Silver Layer → Gold Layer → Power BI
 
+<img width="711" height="398" alt="image" src="https://github.com/user-attachments/assets/85b0037c-2ba1-4a4c-b4a1-f03ab6d0f032" />
+
+
 ### Medallion Architecture
 
 #### Bronze Layer (Raw Data)
