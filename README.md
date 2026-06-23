@@ -28,6 +28,7 @@ Source Systems → Azure Data Factory → Bronze Layer → Silver Layer → Gold
 
 <img width="711" height="398" alt="image" src="https://github.com/user-attachments/assets/85b0037c-2ba1-4a4c-b4a1-f03ab6d0f032" />
 
+<img width="302" height="335" alt="image" src="https://github.com/user-attachments/assets/3fdc7bd7-8a42-4228-94e8-1cb8384b0c11" />
 
 ### Medallion Architecture
 
