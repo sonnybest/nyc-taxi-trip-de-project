@@ -13,10 +13,14 @@ The architecture is designed to support enterprise-grade data engineering requir
 
 ## Data
 
+
 [](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 
 
+
 <img width="776" height="359" alt="image" src="https://github.com/user-attachments/assets/10eb5519-afed-4cf4-8ced-9b1b4efbcb68" />
+
+
 
 ### Data Flow
 
