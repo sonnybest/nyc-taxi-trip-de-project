@@ -1,4 +1,4 @@
-# Azure Lakehouse Data Engineering Project
+# Azure END-TO-END Data Engineering Project
 
 ## Overview
 
